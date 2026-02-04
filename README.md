@@ -54,8 +54,8 @@ I'm currently studying **Systems Analysis and Development** at IFBA, focusing on
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rodrigooalves&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigooalves&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/rodrigooalves&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/rodrigooalves&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
