@@ -8,7 +8,7 @@
   <a href="https://github.com/rodrigooalves">
     <img src="https://img.shields.io/badge/GitHub-rodrigooalves-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/rodrigooalves" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigooalves">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -53,7 +53,6 @@ I'm currently studying **Systems Analysis and Development** at IFBA, focusing on
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigooalves&show_icons=true&theme=transparent)
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rodrigooalves&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigooalves&layout=compact&theme=tokyonight&langs_count=6" />
