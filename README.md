@@ -53,6 +53,7 @@ I'm currently studying **Systems Analysis and Development** at IFBA, focusing on
 
 ## 📊 GitHub Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigooalves&show_icons=true&theme=transparent)
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rodrigooalves&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigooalves&layout=compact&theme=tokyonight&langs_count=6" />
