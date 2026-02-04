@@ -31,14 +31,21 @@ Minha caixa de ferramentas é versátil, cobrindo desde o baixo nível até o de
 
 ---
 
-### 📊 GitHub Stats
-Estas estatísticas refletem minha consistência e impacto nos códigos.
+### 📊 Estatísticas & Produtividade
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.net/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.net/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.net/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&langs_count=8"/>
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula&date_format=d%2Fm%2FY" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_AQUI&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 ---
 
 ### 📫 Vamos conversar?
